@@ -1,0 +1,9 @@
+{
+  "fc.sf.ui.returns.orders.createReturnOrder.exchangeItems.even": "Even exchange",
+  "fc.sf.ui.returns.orders.createReturnOrder.exchangeItems.uneven": "Uneven exchange",
+  "fc.se.priceDifference.priceAdjustment": "Price adjustment",
+  "fc.se.priceDifference.taxAdjustment": "Tax adjustment",
+  "fc.se.priceDifference.totalPayment": "Total payment",
+  "fc.se.add.product.items.error.label": "Add product items error",
+  "fc.se.add.product.items.error.empty.setting": "Missing setting: {settingName}"
+}
