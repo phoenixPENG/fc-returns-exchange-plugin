@@ -1,9 +1,13 @@
 {
-  "fc.sf.ui.returns.orders.createReturnOrder.exchangeItems.even": "Even exchange",
-  "fc.sf.ui.returns.orders.createReturnOrder.exchangeItems.uneven": "Uneven exchange",
-  "fc.se.priceDifference.priceAdjustment": "Price adjustment",
-  "fc.se.priceDifference.taxAdjustment": "Tax adjustment",
-  "fc.se.priceDifference.totalPayment": "Total payment",
-  "fc.se.add.product.items.error.label": "Add product items error",
-  "fc.se.add.product.items.error.empty.setting": "Missing setting: {settingName}"
+"fc.om.addproductitems.error.label": "Add product items error",
+"fc.om.addproductitems.error.empty.setting": "Missing setting: {settingName}",
+"fc.om.addproductitems.error.catalogue.not.found": "Product catalogue not found",
+"fc.om.addproductitems.success": "Product items added successfully",
+"fc.om.exchangeItems.even": "Even exchange",
+"fc.om.exchangeItems.uneven": "Uneven exchange",
+"fc.om.exchangeItems.attributes.priceDifference.priceAdjustment": "Price adjustment",
+"fc.om.exchangeItems.attributes.priceDifference.taxAdjustment": "Tax adjustment", 
+"fc.om.exchangeItems.attributes.priceDifference.totalPayment": "Total payment",
+"fc.om.exchangeItems.attributes.priceDifference.refund":"refund",
+"fc.om.exchangeItems.attributes.priceDifference.payment":"payment"
 }
